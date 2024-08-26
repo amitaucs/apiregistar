@@ -19,7 +19,7 @@
 		<apache.common.lang.version>3.0</apache.common.lang.version>
 		<cucumber.version>1.2.5</cucumber.version>
 		<junit-version>4.11</junit-version>
-		<swagger-version>2.9.2</swagger-version>
+		<swagger-version>2.10.0</swagger-version>
 		<lombok-version>1.18.4</lombok-version>
 		<java-mail-version>1.6.2</java-mail-version>
 	</properties>
